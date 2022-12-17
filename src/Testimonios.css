@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.contenedorTestimonios{
+    margin-top: 50px;
+    width: 80vw;
+    margin-left: 10vw;
+    height: 250px;
+    background-color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-items: center;
+    
+}
+.imagenTestimonios{
+  
+    height: 250px;
+}
+.contenedorTextos{
+   
+    height: 250px;
+    width: 40vw;
+    margin-left: 14.35vw;
+    text-align: center;
+    line-height: 1.5em;
+    padding-top: 50px;
+}

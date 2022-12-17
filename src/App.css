@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h1{
+  
+  margin: auto;
+  padding-top: 40px;
+}
+.App{
+  background-color: gray;
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
+ 
+  
+ 
+
+ 
+}
